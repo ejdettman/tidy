@@ -1,4 +1,4 @@
-Code book for smartphone data cleaning for course 'Getting and Cleaning Data'
+#Code book for smartphone data cleaning for course 'Getting and Cleaning Data'
 
 variable descriptions
 activities - this is a data frame that provides the key with descriptive strings for each activity along with the integer used 
